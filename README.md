@@ -1,3 +1,7 @@
+# Bloggy
+
+Link on heroku: https://app-bloggy.herokuapp.com/
+
 ## To get started
 
 ### 1. Clone the project
